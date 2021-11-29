@@ -2,10 +2,9 @@
 
 * [Introduction](README.md)
 
-## Basics
+## Introductions
 
-* [Anatomy of Open SRDK](basics/anatomy-of-open-srdk/README.md)
-  * [Figma Integration](basics/anatomy-of-open-srdk/figma-integration.md)
+* [Page 1](introductions/page-1.md)
 
 ## USING THE SRDK
 
