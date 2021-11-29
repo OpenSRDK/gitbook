@@ -4,7 +4,8 @@
 
 ## Introductions
 
-* [Page 1](introductions/page-1.md)
+* [Overview](introductions/overview.md)
+* [Why use Rust?](introductions/why-use-rust.md)
 
 ## USING THE SRDK
 
