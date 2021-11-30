@@ -20,14 +20,24 @@ Also on the roadmap is the creation of methods that will be easier to implement 
 
 #### Linear Algebra RS
 
+{% content-ref url="../packages/linear-algebra-rs.md" %}
+[linear-algebra-rs.md](../packages/linear-algebra-rs.md)
+{% endcontent-ref %}
+
 This is a library of linear algebra. Since linear algebra is an integral part of data science, it is responsible for that part.
 
-
-
 #### Kernel Method RS
+
+{% content-ref url="../packages/kernel-method-rs.md" %}
+[kernel-method-rs.md](../packages/kernel-method-rs.md)
+{% endcontent-ref %}
 
 This is a library of kernel method. It has no value on its own. It is more valuable when used in combination with Probability RS.
 
 #### Probability RS
+
+{% content-ref url="../packages/probability-rs.md" %}
+[probability-rs.md](../packages/probability-rs.md)
+{% endcontent-ref %}
 
 Probability RS is most important library in OpenSRDK. This is a library of probability distribution.&#x20;
