@@ -14,29 +14,29 @@ First, Linear Algebra RS makes it easy to define the matrix. In detail, the matr
 
 Linear Algebra RS provides the ability to create the following matrices, which are very easy to use.
 
-#### Matrix distinguished by zero location
+## Matrices supported by Linear Algebra RS
 
-* Diagonal Matrix（対角行列）
-* Bidirectional Matrix（二重対角行列）
-* Tridiagonal Matrix（三重対角行列）
-* Triangular Matrix（三角行列）
+### Matrix distinguished by zero location
 
-#### Matrix distinguished by component replacement
+- Diagonal Matrix（対角行列）
+- Bidirectional Matrix（二重対角行列）
+- Tridiagonal Matrix（三重対角行列）
+- Triangular Matrix（三角行列）
 
-* Symmetric Matrix（対称行列）
-* Hermitian Matrix（エルミート行列）
-* Symmetric Packed Matrix
-* Hermitian Packed Matrix
-* Symmetric Tridiagonal Matrix
-* Circulant Matrix（巡回行列）
-* Toeplitz Matrix（テプリッツ行列）
+### Matrix distinguished by component replacement
 
-#### Others
+- Symmetric Matrix（対称行列）
+- Hermitian Matrix（エルミート行列）
+- Symmetric Packed Matrix
+- Hermitian Packed Matrix
+- Symmetric Tridiagonal Matrix
+- Circulant Matrix（巡回行列）
+- Toeplitz Matrix（テプリッツ行列）
 
-* Sparse Matrix（疎行列）
-* Kronecker Matrix（クロネッカー行列）
+### Others
 
-
+- Sparse Matrix（疎行列）
+- Kronecker Matrix（クロネッカー行列）
 
 You can generate these matrices, define them by overloading the indexer, and add, subtract, and multiply them easily.
 
