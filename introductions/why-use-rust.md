@@ -1,6 +1,6 @@
 # Why use Rust?
 
-### Why develop OpenSRDK in Rust?
+## Why develop OpenSRDK in Rust?
 
 First, Rust is superior to Python and other languages in terms of processing performance.
 
@@ -12,7 +12,7 @@ However, in OpenSRDK design, the responsibility of the processing before throwin
 
 To avoid degradation of processing performance in this area, OpenSRDK uses Rust. The design philosophy of OpenSRDK is discussed in another section.
 
-### About Rust
+## About Rust
 
 In an yearly survey conducted by Stack Overflow between 2016 and 2020, Rust was voted "the programming language developers love the most". Technology leaders are willing to adopt Rust.
 
@@ -20,7 +20,7 @@ For example, Rust is used in Google's Android development, for example in the Bl
 
 Rust has a high enough productivity.
 
-### Features of RUST
+## Features of RUST
 
 One of the features of Rust is that unauthorized data access can be prevented at compile time. Therefore, Rust provides a guarantee that the program will be memory safe without increasing the runtime cost of the program.
 
@@ -30,7 +30,7 @@ Rust also has some other advantages over other languages, which can be roughly s
 * Parallelism
 * Memory efficiency
 
-#### Processing performance
+### Processing performance
 
 Rust provides all the performance available in a computer.
 
@@ -40,13 +40,13 @@ A modern package manager (cargo) is provided. This makes it easy to use many ope
 
 Also, methods are usually statically dispatched. This allows the compiler to aggressively optimize the code, sometimes to the point of removing the cost of function calls altogether.
 
-#### Parallelism
+### Parallelism
 
 It is said that it is difficult for a software engineer to make a single computer "do multiple jobs simultaneously". Two independent threads of execution on a single computer can be unwieldy and sometimes lead to serious errors.
 
 However, Rust allows you to easily create programs with concurrency. By taking advantage of ownership and type checking, many concurrency errors become compile-time errors instead of run-time errors.
 
-#### Memory efficiency
+### Memory efficiency
 
 It is easy to create programs with minimal memory requirements.
 
