@@ -7,5 +7,5 @@ description: >-
 # Probability RS
 
 {% hint style="info" %}
-**Github:** [https://github.com/OpenSRDK/probability-rs](https://github.com/OpenSRDK/probability-rs)
+**GitHub:** [**https://github.com/OpenSRDK/probability-rs**](https://github.com/OpenSRDK/probability-rs)****
 {% endhint %}

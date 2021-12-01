@@ -28,7 +28,7 @@ Probability RS
 
 Edit your `cargo.toml`.
 
-For Example, how to install opensrdk-linear-algebra 0.8.1.
+For Example, how to install opensrdk-linear-algebra 0.8.1. The other two are installed in the same way.
 
 toml:\*\* \*\*Cargo.toml
 

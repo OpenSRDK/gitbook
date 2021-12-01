@@ -5,7 +5,7 @@ description: Library of Linear Algebra
 # Linear Algebra RS
 
 {% hint style="info" %}
-**Github:** [**https://github.com/OpenSRDK/linear-algebra-rs**](https://github.com/OpenSRDK/linear-algebra-rs)
+**GitHub:** [**https://github.com/OpenSRDK/linear-algebra-rs**](https://github.com/OpenSRDK/linear-algebra-rs)
 {% endhint %}
 
 Linear Algebra RS provides a library of linear algebra, which is essential for data science.
@@ -18,25 +18,25 @@ Linear Algebra RS provides the ability to create the following matrices, which a
 
 ### Matrix distinguished by zero location
 
-- Diagonal Matrix（対角行列）
-- Bidirectional Matrix（二重対角行列）
-- Tridiagonal Matrix（三重対角行列）
-- Triangular Matrix（三角行列）
+* Diagonal Matrix（対角行列）
+* Bidirectional Matrix（二重対角行列）
+* Tridiagonal Matrix（三重対角行列）
+* Triangular Matrix（三角行列）
 
 ### Matrix distinguished by component replacement
 
-- Symmetric Matrix（対称行列）
-- Hermitian Matrix（エルミート行列）
-- Symmetric Packed Matrix
-- Hermitian Packed Matrix
-- Symmetric Tridiagonal Matrix
-- Circulant Matrix（巡回行列）
-- Toeplitz Matrix（テプリッツ行列）
+* Symmetric Matrix（対称行列）
+* Hermitian Matrix（エルミート行列）
+* Symmetric Packed Matrix
+* Hermitian Packed Matrix
+* Symmetric Tridiagonal Matrix
+* Circulant Matrix（巡回行列）
+* Toeplitz Matrix（テプリッツ行列）
 
 ### Others
 
-- Sparse Matrix（疎行列）
-- Kronecker Matrix（クロネッカー行列）
+* Sparse Matrix（疎行列）
+* Kronecker Matrix（クロネッカー行列）
 
 You can generate these matrices, define them by overloading the indexer, and add, subtract, and multiply them easily.
 
