@@ -37,6 +37,7 @@ The following kernel functions are supported by Kernel Method RS.
 * ARD Kernel (Automatic Relevance Determination Kernel)
 * RBF Kernel (Radial Basis Function Kernel)
 * Spectral Mixture Kernel (invented and discussed in Wilson et al., 2013.)
+* Deep Neural Network Kernel (invented and discussed in Lee et al., 2018.)
 
 When the matrix created by these kernel functions is a positive definite matrix, its kernel function has the following properties.
 
